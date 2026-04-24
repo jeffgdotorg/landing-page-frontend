@@ -62,7 +62,7 @@ const ExploreCapabilities: React.FunctionComponent = () => {
       title: 'Migration Advisor: VMware to Openshift',
       body: 'Discover your VMware environment, select a target cluster and create a migration plan.',
       ouiaId: 'migration-assessment-button',
-      url: '/openshift/migration-assessment',
+      url: '/openshift/migration-advisor',
     },
   ];
 
